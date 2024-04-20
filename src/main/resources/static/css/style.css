@@ -1,0 +1,28 @@
+
+.navbar-nav {
+    margin-left: 400px; 
+  }
+.navbar-nav li {
+    margin-right: 20px;
+    text-align:center;
+  }
+  
+  body{
+  	background:gray;
+  }
+  
+ .banner{
+	 width:100%;
+ 	Height:93vh;
+ 	background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.8)),url(../images/banner.jpg);
+ 	color:white;
+ 	background-size:cover;
+ 	
+ }
+ 
+ .my-card{
+ 	padding:20px;
+ }
+ 
+ 
+ 
